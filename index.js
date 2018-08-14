@@ -2,10 +2,4 @@
 
 const drivers = ["Milo", "Otis", "Garfield"];
 
-const destructivelyAppendDriver(Ralph) = drivers.push('Ralph');
-
-
-
-
-
-// var newLength = fruits.push('Orange');
+drivers.push('Ralph');
