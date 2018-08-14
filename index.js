@@ -14,6 +14,10 @@ function destructivelyRemoveLastDriver() {
   drivers.pop();
 }
 
+function destructivelyRemoveFirstDriver() {
+  drivers.pop();
+}
+
 
 // var newLength = fruits.push('Orange');
 
