@@ -23,7 +23,7 @@ function appendDriver() {
 }
 
 function prependDriver() {
-  return drivers.slice("0");
+  return drivers.slice(0);
 }
 
 // var newLength = fruits.push('Orange');
