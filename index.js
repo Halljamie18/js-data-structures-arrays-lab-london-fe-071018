@@ -18,7 +18,9 @@ function destructivelyRemoveFirstDriver() {
   drivers.shift();
 }
 
-
+function appendDriver() {
+  drivers.shift();
+}
 
 // var newLength = fruits.push('Orange');
 
