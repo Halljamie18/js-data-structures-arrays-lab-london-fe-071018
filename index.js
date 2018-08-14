@@ -10,8 +10,9 @@ function destructivelyPrependDriver () {
   drivers.unshift("Bob");
 }
 
-
-
+function destructivelyRemoveLastDriver() {
+  drivers.unshift("Bob");
+}
 
 
 // var newLength = fruits.push('Orange');
