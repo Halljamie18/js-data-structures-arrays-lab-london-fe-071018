@@ -6,6 +6,10 @@ function destructivelyAppendDriver () {
   drivers.push("Ralph");
 }
 
+function destructivelyAppendDriver () {
+  drivers.push("Ralph");
+}
+
 
 
 
