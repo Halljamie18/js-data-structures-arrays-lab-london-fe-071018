@@ -21,8 +21,8 @@ function destructivelyRemoveFirstDriver() {
 
 
 function appendDriver() {
-  drivers.concat("Broom");
-  return
+  return drivers.concat("Broom");
+   
 }
 
 // var newLength = fruits.push('Orange');
