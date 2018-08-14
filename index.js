@@ -23,7 +23,7 @@ function appendDriver() {
 }
 
 function prependDriver() {
-  return drivers.slice(0, 2);
+  return drivers.slice("Arnold");
 }
 
 function removeLastDriver() {
