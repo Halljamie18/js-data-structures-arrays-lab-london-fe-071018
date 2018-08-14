@@ -26,7 +26,9 @@ function prependDriver() {
   return drivers.slice(0, 2);
 }
 
-function 
+function prependDriver() {
+  return drivers.slice(0, 2);
+}
 
 // var newLength = fruits.push('Orange');
 
