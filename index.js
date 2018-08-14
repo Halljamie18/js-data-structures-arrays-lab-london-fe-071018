@@ -31,7 +31,7 @@ function removeLastDriver() {
 }
 
 function removeFirstDriver() {
-  return drivers.slice(0, 2);
+  return drivers.slice(2, 0);
 }
 
 // var newLength = fruits.push('Orange');
