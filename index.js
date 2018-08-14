@@ -6,3 +6,4 @@ const drivers.push('Ralph');
 
 
 
+var newLength = fruits.push('Orange');
