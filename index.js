@@ -19,7 +19,7 @@ function destructivelyRemoveFirstDriver() {
 }
 
 function appendDriver() {
-  drivers.concat("");
+  drivers.concat("Broom");
 }
 
 // var newLength = fruits.push('Orange');
