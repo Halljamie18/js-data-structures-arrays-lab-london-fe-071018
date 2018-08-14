@@ -18,11 +18,8 @@ function destructivelyRemoveFirstDriver() {
   drivers.shift();
 }
 
-
-
 function appendDriver() {
   return drivers.concat("Broom");
-   
 }
 
 // var newLength = fruits.push('Orange');
